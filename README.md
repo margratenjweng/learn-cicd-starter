@@ -22,3 +22,5 @@ go build -o notely && ./notely
 
 You do *not* need to set up a database or any interactivity on the webpage yet. Instructions for that will come later in the course!
 MARGRATENJWENG's version of Boot.dev's Notely app.
+git add README.md
+git commit -m "NARGRATENJWENG's version line to README.md"
